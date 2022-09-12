@@ -1,6 +1,8 @@
 # DesignPattern
 
-
+Material con fines educativos sin ánimo de lucro integrantes.
+Sebastian Amilkar
+Milmax 
 -----------------------------------------------------------------------------------------------------------------------
 ****¿Que significa que mi sistema sea modular y tenga un bajo acople?
 -------------------------------------------------------------------------------------------------------------------------
